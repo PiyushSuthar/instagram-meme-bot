@@ -1,0 +1,19 @@
+{
+  "name": "instagram-meme-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "PiyushSuthar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "instagram-private-api": "^1.41.0",
+    "nodemon": "^2.0.4"
+  }
+}
