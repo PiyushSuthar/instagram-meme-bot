@@ -5,6 +5,7 @@
 
 # Warning ⚠ 
 ### *`Note: Never use this with your main account, I repeat NEVER!`*
+![Blocked](https://cdn.statically.io/img/i.ibb.co/K0V6zKB/20200824-112311.jpg)
 
 # Usage ✨
 There are two ways to use it. One with cron jobs and other one is manually.
